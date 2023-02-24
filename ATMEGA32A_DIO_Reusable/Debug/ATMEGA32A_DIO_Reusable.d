@@ -1,0 +1,13 @@
+ATMEGA32A_DIO_Reusable.d ATMEGA32A_DIO_Reusable.o: \
+ .././ATMEGA32A_DIO_Reusable.c ../MCAL/DIO.h ../MCAL/STD.h \
+ ../MCAL/DIO_REGS.h ../MCAL/COMPILER.h ../MCAL/PLATFORM_TYPES.h
+
+../MCAL/DIO.h:
+
+../MCAL/STD.h:
+
+../MCAL/DIO_REGS.h:
+
+../MCAL/COMPILER.h:
+
+../MCAL/PLATFORM_TYPES.h:
